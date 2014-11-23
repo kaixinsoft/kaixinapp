@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.omagic.cn/ios/YingChengKuaiGou.ipa</string>
+					<string>http://www.yckuaigou.com/yckgapp/YingChengKuaiGou.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>醇厚版YingChengKuaiGou</string>
+				<string>英城快购</string>
 			</dict>
 		</dict>
 	</array>
